@@ -1,16 +1,16 @@
-## Hi there 👋
+### Buenas soy [Hernan](https://github.com/HernanRodriguez-bk)]👋
+Estudiante en tecnicatura de Software, con mucho interes por saber como funciona lo que me rodea y apasionado por los RPG 🎮 y del Anime Fanboy de Bleach .<br>
+## 📫 Donde contactarme: 
+[![Linkedin]((https://www.linkedin.com/in/rodriguez-hernan/)]
+) GitHub](https://github.com/HernanRodriguez-bk) 
 
-<!--
-**HernanRodriguez-bk/HernanRodriguez-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador FrontEnd
+- 🌱 Skills : laravel, react, php, JavaScript, html, css
+- 👯 Aca agregare si colaboro en un open source
 
-Here are some ideas to get you started:
+Estadísticas de GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernanRodriguez-bk&sho_icons=true&theme=dark) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanRodriguez-bk&layout=compact&theme=dark&hide=html,css)
