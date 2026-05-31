@@ -1,5 +1,6 @@
 ### Buenas soy [Hernan](https://github.com/HernanRodriguez-bk)]👋
-Estudiante en tecnicatura de Software, con mucho interes por saber como funciona lo que me rodea y apasionado por los RPG 🎮 y del Anime Fanboy de Bleach .<br>
+Estudiante en tecnicatura de Software, con mucho interes por saber como funciona lo que me rodea y apasionado por los RPG 🎮 y del Anime Fanboy de Bleach.
+Mi bebe se va llamar EnzoNicolas <3 .<br>
 ## 📫 Donde contactarme: 
 [![Linkedin]((https://www.linkedin.com/in/rodriguez-hernan/)]
 ) GitHub](https://github.com/HernanRodriguez-bk) 
